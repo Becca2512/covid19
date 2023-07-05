@@ -1,1 +1,1 @@
-Hi, Covid project will live here
+Hi, SQL projects will live here
